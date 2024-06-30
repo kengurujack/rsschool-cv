@@ -13,7 +13,7 @@ mak94@gmx.de — preferred means of communication
    **WSEnergy**  (Customer support manager, Sales-manager, Sales-assistant)
 * February 2014 — september 2019
    **Goethe Institut Moscow** (Employee of the "Department of Information")
-## Higher education (master):
+##  Higher education (master):
 **Moscow Lomonosov State University**
 Faculty of foreign languages and area studies, Linguistics and intercultural communication in politic and diplomacy, Diploma with honors
 ## Language skills:
