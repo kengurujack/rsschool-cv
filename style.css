@@ -1,0 +1,16 @@
+
+.name {
+    font: italic bold 24px/1.5, Times;
+    text-align: center;
+}
+
+.body {font-family: 'Times New Roman', Times, serif;}
+
+.work {
+    font-weight: bold;
+    color: rgb(0, 132, 228);
+}
+
+.date {
+    font-weight: bold;
+}
