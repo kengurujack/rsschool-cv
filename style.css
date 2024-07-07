@@ -69,9 +69,22 @@ h2 {
     will-change: 700px;
 }
 
-.aside { background-color: #225cb3;
-
-    display: flex;
-    justify-content: flex-start;
+.footer { 
 
 }
+
+.year {
+    text-align: center;
+    color:#225cb3;
+    line-height: -0.5;
+    font-weight: 700;
+
+}
+
+.contacts {
+    background-color: #225cb3;
+    color: #eaecef;
+    
+}
+
+.logo {height: 10px;}
