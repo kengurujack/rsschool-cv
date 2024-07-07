@@ -1,16 +1,77 @@
 
 .name {
-    font: italic bold 24px/1.5, Times;
-    text-align: center;
+    font: italic bold 30px/1.5, Arial;
+    text-align: left;
 }
 
-.body {font-family: 'Times New Roman', Times, serif;}
+.header {
+    line-height: 1.5;
+}
 
-.work {
-    font-weight: bold;
-    color: rgb(0, 132, 228);
+.body {
+    font-family: Arial, sans-serif;
+    background-color: #eaecef;
+    color: #1d262d;
 }
 
 .date {
     font-weight: bold;
+    font-size: font-size: 1.1em;;
+}
+
+.subhead { 
+    font-size: 25px;
+    font-weight: 550;
+}
+
+
+.experience {
+   letter-spacing: normal;
+
+}
+
+.text {
+    letter-spacing: 0.5px;
+    line-height: 1.5;
+}
+
+h2 {
+    color: #225cb3;
+}
+
+.Uni {
+    font-weight: bold;
+    font-size: 1.1em;
+    line-height: 0.5;
+}
+
+.language {
+    font-weight: bold;
+}
+
+.about { 
+    font-weight: 550;
+
+}
+
+.brackets {
+    color: #225cb3;
+    font-weight: 700;
+    font-size: 1.2em;
+}
+
+.main {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.maininfo {
+    will-change: 700px;
+}
+
+.aside { background-color: #225cb3;
+
+    display: flex;
+    justify-content: flex-start;
+
 }
