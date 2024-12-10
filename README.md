@@ -1,1 +1,1 @@
-# rsschool-cv
+https://kengurujack.github.io/rsschool-cv/cv
